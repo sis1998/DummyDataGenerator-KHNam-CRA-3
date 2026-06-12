@@ -1,0 +1,7 @@
+{
+  "fields": [
+    { "name": "id",    "type": "int",    "prefix": "" },
+    { "name": "name",  "type": "string", "prefix": "name-" },
+    { "name": "value", "type": "string", "prefix": "value-" }
+  ]
+}
